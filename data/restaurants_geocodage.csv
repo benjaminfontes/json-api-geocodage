@@ -1,0 +1,2 @@
+place_id,licence,osm_type,osm_id,lat,lon,class,type,place_rank,importance,addresstype,name,display_name,boundingbox
+53856607,"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",way,409895559,37.5111425,15.0950365,highway,residential,26,0.05340454642557409,residential,Via Pietro Mascagni,"Via Pietro Mascagni, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95131, Italia","['37.5110212', '37.5112428', '15.0942789', '15.0957972']"
